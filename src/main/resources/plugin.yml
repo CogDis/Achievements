@@ -1,0 +1,9 @@
+author: Elias Woods
+database: false
+description: Core module for achievement tracking.
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: com.precipicegames.achievements.Achievements
+name: Achievements
+startup: postworld
+url: https://github.com/PrecipiceGames/Achievements
+version: '0.1'
